@@ -1,5 +1,5 @@
 - 👋 Hi, I’m aakashbd
-- 👀 I’m interested in creating a new codings
+- 👀 I’m interested in creating new codings
 - 🌱 I’m currently learning artificial intelligence and data science 1 year
 - 💞️ I’m looking to collaborate on everyone to learn new things 
 - 📫 How to reach me aakash.bd.1508@gmail.com
